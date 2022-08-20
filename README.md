@@ -4,6 +4,4 @@ brief description about the restaurant, meals, contact details. This project mai
 friendly UI. The purpose of the site is to explain all the necessary details about the restaurant.
 
 
-
-https://user-images.githubusercontent.com/96379277/185741820-d8e7192e-bf45-4770-99c2-d33f0c016a42.mp4
-
+https://user-images.githubusercontent.com/96379277/185743879-ed1b9f66-142c-49b1-974a-b7a347a6f6c7.mp4
